@@ -34,14 +34,14 @@ data["__VIEWSTATE"]="dDwtMTQ0Mjk5MTgxMjt0PHA8bDx4c3p5ZG07PjtsPDE5MDI7Pj47bDxpPDE
 #     data["__VIEWSTATE"]="dDwtMTQ0Mjk5MTgxMjt0PHA8bDx4c3p5ZG07PjtsPDE5MDI7Pj47bDxpPDE+Oz47bDx0PDtsPGk8MT47aTwzPjtpPDU+O2k8Nz47aTw5PjtpPDExPjtpPDEzPjtpPDE1PjtpPDE5PjtpPDIxPjtpPDIzPjtpPDI1Pjs+O2w8dDx0PHA8cDxsPERhdGFUZXh0RmllbGQ7RGF0YVZhbHVlRmllbGQ7PjtsPHhuO3huOz4+Oz47dDxpPDQ+O0A8MjAxOC0yMDE5OzIwMTctMjAxODsyMDE2LTIwMTc7MjAxNS0yMDE2Oz47QDwyMDE4LTIwMTk7MjAxNy0yMDE4OzIwMTYtMjAxNzsyMDE1LTIwMTY7Pj47bDxpPDA+Oz4+Ozs+O3Q8dDxwPHA8bDxEYXRhVGV4dEZpZWxkO0RhdGFWYWx1ZUZpZWxkOz47bDx4cTt4cTs+Pjs+O3Q8aTwyPjtAPDE7Mjs+O0A8MTsyOz4+O2w8aTwwPjs+Pjs7Pjt0PHQ8cDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs+Ozs+Ozs+O3Q8dDxwPHA8bDxEYXRhVGV4dEZpZWxkO0RhdGFWYWx1ZUZpZWxkOz47bDxuajtuajs+Pjs+O3Q8aTw3PjtAPDIwMTg7MjAxNzsyMDE2OzIwMTU7MjAxNDsyMDEzOzIwMTI7PjtAPDIwMTg7MjAxNzsyMDE2OzIwMTU7MjAxNDsyMDEzOzIwMTI7Pj47bDxpPDI+Oz4+Ozs+O3Q8dDxwPHA8bDxEYXRhVGV4dEZpZWxkO0RhdGFWYWx1ZUZpZWxkOz47bDx4eW1jO3h5ZG07Pj47Pjt0PGk8MTA+O0A85py655S15bel56iL5a2m6ZmiO+eUteWtkOS/oeaBr+W3peeoi+WtpumZojvorqHnrpfmnLrnp5HlrablrabpmaI755Sf5ZG956eR5a2m5LiO5YyW5a2m5a2m6ZmiO+euoeeQhuWtpumZojvnu4/mtY7lrabpmaI75Lyg5aqS5LiO6Im65pyv6K6+6K6h5a2m6ZmiO+aWh+azleWtpumZojvlpJbor63lrabpmaI75Zu96ZmF5pWZ6IKy5a2m6ZmiOz47QDwxNzsxODsxOTsyMDsyMTsyMjsyMzsyNDsyNTsyNjs+PjtsPGk8NT47Pj47Oz47dDx0PHA8cDxsPERhdGFUZXh0RmllbGQ7RGF0YVZhbHVlRmllbGQ7PjtsPHp5bWM7enlkbTs+Pjs+O3Q8aTwxMz47QDzph5Hono3lraY75Zu96ZmF57uP5rWO5LiO6LS45piTO+WbvemZhei0uOaYk+WunuWKoSjkuJMpO+mHkeiejeeuoeeQhuS4juWunuWKoe+8iOS4k++8iTvmiL/lnLDkuqfnu4/okKXnrqHnkIY75oi/5Zyw5Lqn5byA5Y+R5LiO566h55CGO+W3peeoi+mAoOS7t++8iOS4k++8iTvln47plYfop4TliJLvvIjkuJPvvIk76YeR6J6N5a2m77yIWu+8iTvph5Hono3nrqHnkIbvvIjkuJPvvIk76YeR6J6N5a2m77yIeu+8iTvnqI7mlLblraY7XGU7PjtAPDIyMDE7MjIwMjsyMjAzOzIyMDQ7MjIwNTsyMjA2OzIyMDc7MjIwODsyMjA5OzIyMTA7MjIxMTsyMjEyO1xlOz4+O2w8aTwwPjs+Pjs7Pjt0PHQ8cDxwPGw8RGF0YVRleHRGaWVsZDtEYXRhVmFsdWVGaWVsZDs+O2w8dGprYm1jO3Rqa2JkbTs+Pjs+O3Q8aTw5PjtAPFxlOzE26YeR6J6N5a2mMeePrTsxNumHkeiejeWtpjLnj607MTbph5Hono3lraYz54+tOzE26YeR6J6N5a2mNOePrTsxNumHkeiejeWtpjXnj607MTbph5Hono3lraY254+tOzE26YeR6J6N5a2mN+ePrTsxNumHkeiejeWtpjjnj607PjtAPFxlOzIwMTYyMjAxMjAxOC0yMDE5MTE2MjIwMTE7MjAxNjIyMDEyMDE4LTIwMTkxMTYyMjAxMjsyMDE2MjIwMTIwMTgtMjAxOTExNjIyMDEzOzIwMTYyMjAxMjAxOC0yMDE5MTE2MjIwMTQ7MjAxNjIyMDEyMDE4LTIwMTkxMTYyMjAxNTsyMDE2MjIwMTIwMTgtMjAxOTExNjIyMDE2OzIwMTYyMjAxMjAxOC0yMDE5MTE2MjIwMTc7MjAxNjIyMDEyMDE4LTIwMTkxMTYyMjAxODs+PjtsPGk8MT47Pj47Oz47dDxwPHA8bDxUZXh0Oz47bDxcZTs+Pjs+Ozs+O3Q8O2w8aTw1Pjs+O2w8dDxAMDw7Ozs7Ozs7Ozs7Pjs7Pjs+Pjt0PHA8cDxsPFRleHQ7PjtsPFxlOz4+Oz47Oz47dDxAMDxwPHA8bDxQYWdlQ291bnQ7XyFJdGVtQ291bnQ7XyFEYXRhU291cmNlSXRlbUNvdW50O0RhdGFLZXlzOz47bDxpPDE+O2k8MD47aTwwPjtsPD47Pj47Pjs7Ozs7Ozs7Ozs+Ozs+O3Q8QDA8cDxwPGw8UGFnZUNvdW50O18hSXRlbUNvdW50O18hRGF0YVNvdXJjZUl0ZW1Db3VudDtEYXRhS2V5czs+O2w8aTwxPjtpPDY+O2k8Nj47bDw+Oz4+Oz47Ozs7Ozs7Ozs7PjtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDI+O2k8Mz47aTw0PjtpPDU+O2k8Nj47PjtsPHQ8O2w8aTwwPjtpPDE+O2k8Mj47aTwzPjtpPDQ+O2k8NT47aTw2PjtpPDc+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPDAyMjAxMjE7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPDAyMjAxMjE7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOihpTAwMzA7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPCgyMDE4LTIwMTktMSktMDIyNDA3LTAyMjAxMjEtMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85b6u6K++56iLMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w86YKx5pmT5oGLICjnu4/mtY7lrabpmaIpJm5ic3BcOzs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w86YKx5pmT5oGLICjnu4/mtY7lrabpmaIp5ZGoNeesrDHoioLov57nu60y6IqCe+esrDE1LTE15ZGo5Y2V5ZGofS8yLTIwMjs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8MjAxOC0xMS0yOC0wOC01ODs+Pjs+Ozs+Oz4+O3Q8O2w8aTwwPjtpPDE+O2k8Mj47aTwzPjtpPDQ+O2k8NT47aTw2PjtpPDc+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPDAyMkwwNjk7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPDAyMkwwNjk7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOiwgzAwMDM7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPCgyMDE4LTIwMTktMSktMDIyMTQ0LTAyMkwwNjktMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85ZWG5Lia6ZO26KGM57uP6JCl566h55CGOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzlvpDmhafmlY8o57uP5rWO5a2m6ZmiKeWRqDPnrKwz6IqC6L+e57utMuiKgnvnrKwxLTHlkah9LzItMjA0Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzlvpDmhafmlY8o57uP5rWO5a2m6ZmiKeWRqDXnrKw16IqC6L+e57utMuiKgnvnrKwyLTLlkajlj4zlkah9LzItMjA2Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwyMDE4LTA5LTA1LTExLTIzOz4+Oz47Oz47Pj47dDw7bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47aTw1PjtpPDY+O2k8Nz47PjtsPHQ8cDxwPGw8VGV4dDs+O2w8MDIyTDA0NDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8MDIyTDA0NDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w86LCDMDIwMDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8KDIwMTgtMjAxOS0xKS0wMjIzOTYtMDIyTDA0NC0xOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzkupLogZTnvZHph5Hono07Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOWImOS9syjnu4/mtY7lrabpmaIp5ZGoMeesrDHoioLov57nu60y6IqCe+esrDQtNOWRqH0vMy01MDQ7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOWImOS9syjnu4/mtY7lrabpmaIp5ZGoNeesrDfoioLov57nu60y6IqCe+esrDQtNOWRqH0vMi0yMDk7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPDIwMTgtMDktMjEtMDktMTE7Pj47Pjs7Pjs+Pjt0PDtsPGk8MD47aTwxPjtpPDI+O2k8Mz47aTw0PjtpPDU+O2k8Nj47aTw3Pjs+O2w8dDxwPHA8bDxUZXh0Oz47bDwwMjEwMTEwOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwwMjEwMTEwOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzosIMwOTYxOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwoMjAxOC0yMDE5LTEpLTAyMTE0Ny0wMjEwMTEwLTI7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOWIm+S4muWfuuehgDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85pu56ZuoKOeuoeeQhuWtpumZoinlkag256ysN+iKgui/nue7rTLoioJ756ysMy0z5ZGofS8zLTMwMzs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85pu56ZuoKOeuoeeQhuWtpumZoinlkag256ysN+iKgui/nue7rTLoioJ756ysMTAtMTDlkajlj4zlkah9LzItNDExOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwyMDE4LTExLTA3LTA5LTEzOz4+Oz47Oz47Pj47dDw7bDxpPDA+O2k8MT47aTwyPjtpPDM+O2k8ND47aTw1PjtpPDY+O2k8Nz47PjtsPHQ8cDxwPGw8VGV4dDs+O2w8MDIyMDAzMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8MDIyMDAzMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w86LCDMTExMjs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8KDIwMTgtMjAxOS0xKS0wMjIxMDEtMDIyMDAzMS0xOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzorqHph4/nu4/mtY7lrablrp7orq07Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOWtmeS4vSjnu4/mtY7lrabpmaIp5ZGoNOesrDHoioLov57nu60y6IqCe+esrDEzLTEz5ZGofS/lrp5ENDAxOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzlrZnkuL0o57uP5rWO5a2m6ZmiKeWRqDTnrKwz6IqC6L+e57utMuiKgnvnrKwxNC0xNOWRqOWPjOWRqH0v5a6eRDQwMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8MjAxOC0xMS0yOC0xNi0wNTs+Pjs+Ozs+Oz4+O3Q8O2w8aTwwPjtpPDE+O2k8Mj47aTwzPjtpPDQ+O2k8NT47aTw2PjtpPDc+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPDAyMjAxMjE7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPCZuYnNwXDs7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOWBnDAwMjM7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPCgyMDE4LTIwMTktMSktMDIyNDA3LTAyMjAxMjEtMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85b6u6K++56iLMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w86YKx5pmT5oGLICjnu4/mtY7lrabpmaIp5ZGoNeesrDPoioLov57nu60y6IqCe+esrDktOeWRqH0vMi0zMTI7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPCZuYnNwXDs7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPDIwMTgtMTAtMjktMDgtNTY7Pj47Pjs7Pjs+Pjs+Pjs+Pjs+Pjs+Pjs+YQ/6ueST413xiEWf+xICtPs5O4A="
 # else:
 #     data["__VIEWSTATE"]=sign
-
+#
 majors=[]
 for nj in range(2015,2019):
     data["nj"]=str(nj)
     for xy in range(17,27):
         data['xy']=str(xy)
         resp=requests.post(url,headers=headers,data=data)
-        html = resp.content.decode("gb2312")
+        html = resp.content.decode("gb2312","ignore")
         htmlE = etree.HTML(html)
         sign = htmlE.xpath('//input[@name="__VIEWSTATE"]')[0].get('value')
         data["__VIEWSTATE"]=sign
@@ -53,7 +53,7 @@ for nj in range(2015,2019):
                 data["__EVENTTARGET"]="zy"
                 print(data["zy"])
                 resp1=requests.post(url,headers=headers,data=data)
-                html1=resp1.content.decode("gb2312")
+                html1=resp1.content.decode("gb2312","ignore")
                 print(html1)
                 htmlE1 = etree.HTML(html1)
                 sign1 = htmlE1.xpath('//input[@name="__VIEWSTATE"]')[0].get('value')
@@ -65,13 +65,14 @@ for nj in range(2015,2019):
                         data["kb"]=kbv
                         resp2 = requests.post(url, headers=headers, data=data)
                         try:
-                            html2 = resp2.content.decode("gb2312")
+                            html2 = resp2.content.decode("gb2312","ignore")
                             htmlE2 = etree.HTML(html2)
                             sign2 = htmlE2.xpath('//input[@name="__VIEWSTATE"]')[0].get('value')
                             data["__VIEWSTATE"] = sign2
                             print(html2)
                         except:
                             print(data)
+                            exit(0)
 
 
 print(majors)
@@ -103,8 +104,8 @@ print(majors)
 
 
 
-resp=requests.post(url,headers=headers,data=data)
-html=resp.content.decode("gb2312")
+# resp=requests.post(url,headers=headers,data=data)
+# html=resp.content.decode("gb2312")
 
 
 # htmlE=etree.HTML(html)
@@ -129,10 +130,11 @@ html=resp.content.decode("gb2312")
 # print(headers)
 
 # url="http://10.254.0.75:3300/tjkbcx.aspx?xh=2016040121081&xm=%B7%B6%D0%CB%B9%FA&gnmkdm=N123101"
+# data={'__EVENTTARGET': 'zy', '__EVENTARGUMENT': '', '__VIEWSTATE': 'dDwtMTQ0Mjk5MTgxMjt0PHA8bDx4c3p5ZG07PjtsPDE5MDI7Pj47bDxpPDE+Oz47bDx0PDtsPGk8MT47aTwzPjtpPDU+O2k8Nz47aTw5PjtpPDExPjtpPDEzPjtpPDE1PjtpPDE5PjtpPDIxPjtpPDIzPjtpPDI1Pjs+O2w8dDx0PHA8cDxsPERhdGFUZXh0RmllbGQ7RGF0YVZhbHVlRmllbGQ7PjtsPHhuO3huOz4+Oz47dDxpPDQ+O0A8MjAxOC0yMDE5OzIwMTctMjAxODsyMDE2LTIwMTc7MjAxNS0yMDE2Oz47QDwyMDE4LTIwMTk7MjAxNy0yMDE4OzIwMTYtMjAxNzsyMDE1LTIwMTY7Pj47bDxpPDA+Oz4+Ozs+O3Q8dDxwPHA8bDxEYXRhVGV4dEZpZWxkO0RhdGFWYWx1ZUZpZWxkOz47bDx4cTt4cTs+Pjs+O3Q8aTwyPjtAPDE7Mjs+O0A8MTsyOz4+O2w8aTwwPjs+Pjs7Pjt0PHQ8cDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs+Ozs+Ozs+O3Q8dDxwPHA8bDxEYXRhVGV4dEZpZWxkO0RhdGFWYWx1ZUZpZWxkOz47bDxuajtuajs+Pjs+O3Q8aTw3PjtAPDIwMTg7MjAxNzsyMDE2OzIwMTU7MjAxNDsyMDEzOzIwMTI7PjtAPDIwMTg7MjAxNzsyMDE2OzIwMTU7MjAxNDsyMDEzOzIwMTI7Pj47bDxpPDM+Oz4+Ozs+O3Q8dDxwPHA8bDxEYXRhVGV4dEZpZWxkO0RhdGFWYWx1ZUZpZWxkOz47bDx4eW1jO3h5ZG07Pj47Pjt0PGk8MTA+O0A85py655S15bel56iL5a2m6ZmiO+eUteWtkOS/oeaBr+W3peeoi+WtpumZojvorqHnrpfmnLrnp5HlrablrabpmaI755Sf5ZG956eR5a2m5LiO5YyW5a2m5a2m6ZmiO+euoeeQhuWtpumZojvnu4/mtY7lrabpmaI75Lyg5aqS5LiO6Im65pyv6K6+6K6h5a2m6ZmiO+aWh+azleWtpumZojvlpJbor63lrabpmaI75Zu96ZmF5pWZ6IKy5a2m6ZmiOz47QDwxNzsxODsxOTsyMDsyMTsyMjsyMzsyNDsyNTsyNjs+PjtsPGk8NT47Pj47Oz47dDx0PHA8cDxsPERhdGFUZXh0RmllbGQ7RGF0YVZhbHVlRmllbGQ7PjtsPHp5bWM7enlkbTs+Pjs+O3Q8aTwxMz47QDzph5Hono3lraY75Zu96ZmF57uP5rWO5LiO6LS45piTO+WbvemZhei0uOaYk+WunuWKoSjkuJMpO+mHkeiejeeuoeeQhuS4juWunuWKoe+8iOS4k++8iTvmiL/lnLDkuqfnu4/okKXnrqHnkIY75oi/5Zyw5Lqn5byA5Y+R5LiO566h55CGO+W3peeoi+mAoOS7t++8iOS4k++8iTvln47plYfop4TliJLvvIjkuJPvvIk76YeR6J6N5a2m77yIWu+8iTvph5Hono3nrqHnkIbvvIjkuJPvvIk76YeR6J6N5a2m77yIeu+8iTvnqI7mlLblraY7XGU7PjtAPDIyMDE7MjIwMjsyMjAzOzIyMDQ7MjIwNTsyMjA2OzIyMDc7MjIwODsyMjA5OzIyMTA7MjIxMTsyMjEyO1xlOz4+O2w8aTwxPjs+Pjs7Pjt0PHQ8cDxwPGw8RGF0YVRleHRGaWVsZDtEYXRhVmFsdWVGaWVsZDs+O2w8dGprYm1jO3Rqa2JkbTs+Pjs+O3Q8aTwzPjtAPFxlOzE15Zu96ZmF57uP5rWO5LiO6LS45piTMeePrTsxNeWbvemZhee7j+a1juS4jui0uOaYkzLnj607PjtAPFxlOzIwMTUyMjAyMjAxOC0yMDE5MTE1MjIwMjE7MjAxNTIyMDIyMDE4LTIwMTkxMTUyMjAyMjs+PjtsPGk8MD47Pj47Oz47dDxwPHA8bDxUZXh0Oz47bDxcZTs+Pjs+Ozs+O3Q8O2w8aTw1Pjs+O2w8dDxAMDw7Ozs7Ozs7Ozs7Pjs7Pjs+Pjt0PHA8cDxsPFRleHQ7PjtsPFxlOz4+Oz47Oz47dDxAMDxwPHA8bDxQYWdlQ291bnQ7XyFJdGVtQ291bnQ7XyFEYXRhU291cmNlSXRlbUNvdW50O0RhdGFLZXlzOz47bDxpPDE+O2k8MT47aTwxPjtsPD47Pj47Pjs7Ozs7Ozs7Ozs+O2w8aTwwPjs+O2w8dDw7bDxpPDE+Oz47bDx0PDtsPGk8MD47aTwxPjtpPDI+O2k8Mz47aTw0PjtpPDU+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPOS4k+S4mu+8iOeUn+S6p++8ieWunuS5oDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85byg55C8Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDw4Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwwMS0xODs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8Jm5ic3BcOzs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8Jm5ic3BcOzs+Pjs+Ozs+Oz4+Oz4+Oz4+O3Q8QDA8cDxwPGw8UGFnZUNvdW50O18hSXRlbUNvdW50O18hRGF0YVNvdXJjZUl0ZW1Db3VudDtEYXRhS2V5czs+O2w8aTwxPjtpPDI+O2k8Mj47bDw+Oz4+Oz47Ozs7Ozs7Ozs7PjtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDI+Oz47bDx0PDtsPGk8MD47aTwxPjtpPDI+O2k8Mz47aTw0PjtpPDU+O2k8Nj47aTw3Pjs+O2w8dDxwPHA8bDxUZXh0Oz47bDwwMjJMMDU4Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwwMjJMMDU4Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzosIMwMzI0Oz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwoMjAxOC0yMDE5LTEpLTAyMjE2NC0wMjJMMDU4LTQ7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOWkluaxh+S6pOaYkzs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85ZGo6I6O5Li9KOe7j+a1juWtpumZoinlkagx56ysMeiKgui/nue7rTLoioJ756ysNC005ZGofS8yLTQwMTs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85ZGo6I6O5Li9KOe7j+a1juWtpumZoinlkag156ysMeiKgui/nue7rTLoioJ756ysNi025ZGo5Y+M5ZGofS8yLTIxMzs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w8MjAxOC0wOS0yNS0xMS0xMjs+Pjs+Ozs+Oz4+O3Q8O2w8aTwwPjtpPDE+O2k8Mj47aTwzPjtpPDQ+O2k8NT47aTw2PjtpPDc+Oz47bDx0PHA8cDxsPFRleHQ7PjtsPDAyMkwwNTg7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPDAyMkwwNTg7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPOiwgzAzMjU7Pj47Pjs7Pjt0PHA8cDxsPFRleHQ7PjtsPCgyMDE4LTIwMTktMSktMDIyMTY0LTAyMkwwNTgtNDs+Pjs+Ozs+O3Q8cDxwPGw8VGV4dDs+O2w85aSW5rGH5Lqk5piTOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzlkajojo7kuL0o57uP5rWO5a2m6ZmiKeWRqDHnrKw16IqC6L+e57utMuiKgnvnrKw0LTTlkah9LzItNDEzOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDzlkajojo7kuL0o57uP5rWO5a2m6ZmiKeWRqDPnrKwz6IqC6L+e57utMuiKgnvnrKw0LTTlkah9LzItMTAzOz4+Oz47Oz47dDxwPHA8bDxUZXh0Oz47bDwyMDE4LTA5LTI1LTExLTEzOz4+Oz47Oz47Pj47Pj47Pj47Pj47Pj47Pp3zXv8g2OvjrahZ3SagGuW2lMON', 'xn': '2018-2019', 'xq': '1', 'nj': '2015', 'xy': '22', 'zy': '2202', 'kb': '201522022018-201911522021'}
 
 #
-# #
+#
 # resp=requests.post(url,headers=headers,data=data)
-# # resp=requests.get(url,headers=headers)
+# resp=requests.get(url,headers=headers)
 # #
-# print(resp.content.decode("gb2312"))
+# print(resp.content.decode("gb2312","ignore"))
